@@ -1,5 +1,4 @@
-# BinBong
-Bing Bong
+# BingBong
 Der Verbrennungsmotor (Internal Combustion Engine)
 
 Wie funktioniert ein Verbrennungsmotor?
